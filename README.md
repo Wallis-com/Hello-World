@@ -1,2 +1,1 @@
-# Hello-World
-java project
+This repository is created for testing of gitapis 
