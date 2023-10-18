@@ -1,0 +1,4 @@
+src @WPT/codeowners
+JenkinsFile @WPT/devops
+checkmarx.groovy @WPT/devops
+project-verification.groovy @WPT/devops
